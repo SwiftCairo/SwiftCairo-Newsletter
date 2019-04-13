@@ -24,19 +24,43 @@
 
 **Tools/Controls/Pods**
 
-* 
+* [Codextended](https://github.com/JohnSundell/Codextended)
+
+* [RxSwift](https://github.com/ReactiveX/RxSwift)
+
+* [R.swift](https://github.com/mac-cain13/R.swift)
+
+* [OneSignal](https://github.com/OneSignal/OneSignal-iOS-SDK)
+
+* [Realm](https://github.com/realm/realm-cocoa/)
+
+* [lottie-ios](https://github.com/airbnb/lottie-ios)
+
+* [DifferenceKit](https://github.com/ra1028/DifferenceKit)
+
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift)
+
+* [vapor](https://github.com/vapor/vapor)
+
+* [optionals.org](https://www.optionals.org)
 
 **Business/Career**
 
-* 
+* [Unsure if you should be using Push notifications in your app?](https://medium.com/@dermdaly/unsure-if-you-should-be-using-push-notifications-in-your-app-ive-cracked-it-9823ee01263d)
+
+* [Women In Tech](https://link.medium.com/5cM57XZNNV)
+
+* [Stack Overflow Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019?utm_source=Iterable&utm_medium=email&utm_campaign=dev-survey-2019&fbclid=IwAR2wWo3ScuE-rwlZ8SmjnbBWVLjmU7oaPYsO8Z2rX9kn33SJRM1l7b_Lros)
 
 **UI/UX**
 
-* 
+* [MotionBook (UI/UX Animation Book)](https://github.com/younatics/MotionBook)
 
 **Videos**
 
-* 
+* [What's new in Swift 5.0? by Paul Hudson](https://www.youtube.com/watch?v=_Iw4zf8gtqs)
+
+* [Vapor Presentations](https://www.youtube.com/playlist?list=PLJbKhtS4qyYQYoC08eh_lizMTJNrj7ZDH)
 
 **Credits**
 
