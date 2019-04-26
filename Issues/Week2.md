@@ -11,6 +11,9 @@
 
 * [UIMotionEffect: Easily adding depth to your UI](https://nachbaur.com/2019/04/24/uimotioneffects/), by [@NachoMan](https://twitter.com/NachoMan)
 
+* [Developer productivity boost with Google Search Tips & Tricks](https://www.avanderlee.com/optimization/developer-productivity-boost-with-google-search-tips-tricks/), by [@Antoine v.d. Lee](https://twitter.com/twannl)
+
+
 
 **Tools/Controls/Pods**
 
@@ -23,12 +26,19 @@
 
 **UI/UX**
 
-* 
+* [16 Rules of Effective UX Writing] (https://uxplanet.org/16-rules-of-effective-ux-writing-2a20cf85fdbf?fbclid=IwAR3_pKPxKQaWZbRPxgoYI3vXSki9_qz6AgiSX-cCM4wcV9LD_Iu0PpMzp84), by Nick Babich
 
 **Videos**
 
-* 
+* [Swift News #55 by Sean Allen] (https://www.youtube.com/watch?v=QoLMlKuZiBI)
+
+**Jobs**
+
+* [Internships @ Soleek lab](https://www.facebook.com/soleeklab/photos/a.662098950639277/1186140531568447/?type=3&theater)
+
+*  [Internships @ Instabug](https://www.facebook.com/Instabug/posts/2283737864998618)
+
 
 **Credits**
 
-* [hassaneldesouky](https://github.com/HassanElDesouky), [AhmedKhalaf](https://github.com/ahmedk92)
+* [hassaneldesouky](https://github.com/HassanElDesouky), [AhmedKhalaf](https://github.com/ahmedk92), [Attia Mo](https://twitter.com/attiamothedev)
