@@ -19,6 +19,8 @@
 
 * [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu), by [@KarimEbrahemAbdelaziz](https://github.com/KarimEbrahemAbdelaziz)
 
+* [Batch upload IAP products](https://github.com/RareSloth/itms-scripts), by [RareSloth](https://github.com/RareSloth)
+
 **Business/Career**
 
 * [How I failed 39 interviews and what I’ve learned](https://medium.com/flawless-app-stories/how-i-failed-39-interviews-and-what-ive-learned-515c8e6c4b53), by [@hassanedesouky](https://twitter.com/hassanedesouky)
