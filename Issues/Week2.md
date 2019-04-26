@@ -9,6 +9,8 @@
 
 * [Improve your iOS team’s productivity by building features as frameworks](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5), by [@sashimiblade](https://twitter.com/sashimiblade)
 
+* [UIMotionEffect: Easily adding depth to your UI](https://nachbaur.com/2019/04/24/uimotioneffects/), by [@NachoMan](https://twitter.com/NachoMan)
+
 
 **Tools/Controls/Pods**
 
