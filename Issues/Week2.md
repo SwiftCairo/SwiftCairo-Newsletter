@@ -47,4 +47,4 @@
 
 **Credits**
 
-* [hassaneldesouky](https://github.com/HassanElDesouky), [AhmedKhalaf](https://github.com/ahmedk92), [Attia Mo](https://twitter.com/attiamothedev)
+* [hassaneldesouky](https://github.com/HassanElDesouky), [AhmedKhalaf](https://github.com/ahmedk92), [Attia Mo](https://twitter.com/attiamothedev), [moelnaggar](https://github.com/MoElnaggar14)
