@@ -38,6 +38,8 @@
 
 * [Swift News #55 by Sean Allen](https://www.youtube.com/watch?v=QoLMlKuZiBI)
 
+* [Building a macOS menu bar app with string transforms](https://www.youtube.com/watch?v=ii89L7LVAs4&list=PLuoeXyslFTuZNAZKB3FAYqiJZKigjC3VG&index=13), by [@twostraws](https://github.com/twostraws)
+
 **Jobs**
 
 * [Internships @ Soleek lab](https://www.facebook.com/soleeklab/photos/a.662098950639277/1186140531568447/?type=3&theater)
