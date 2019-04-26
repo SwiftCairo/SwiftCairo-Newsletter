@@ -21,6 +21,8 @@
 
 * [Batch upload IAP products](https://github.com/RareSloth/itms-scripts), by [RareSloth](https://github.com/RareSloth)
 
+* [Eliminate Unused Swift Code](https://github.com/peripheryapp/periphery), by [Periphery](https://github.com/peripheryapp)
+
 **Business/Career**
 
 * [How I failed 39 interviews and what I’ve learned](https://medium.com/flawless-app-stories/how-i-failed-39-interviews-and-what-ive-learned-515c8e6c4b53), by [@hassanedesouky](https://twitter.com/hassanedesouky)
