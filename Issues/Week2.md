@@ -26,11 +26,11 @@
 
 **UI/UX**
 
-* [16 Rules of Effective UX Writing] (https://uxplanet.org/16-rules-of-effective-ux-writing-2a20cf85fdbf?fbclid=IwAR3_pKPxKQaWZbRPxgoYI3vXSki9_qz6AgiSX-cCM4wcV9LD_Iu0PpMzp84), by Nick Babich
+* [16 Rules of Effective UX Writing](https://uxplanet.org/16-rules-of-effective-ux-writing-2a20cf85fdbf?fbclid=IwAR3_pKPxKQaWZbRPxgoYI3vXSki9_qz6AgiSX-cCM4wcV9LD_Iu0PpMzp84), by Nick Babich
 
 **Videos**
 
-* [Swift News #55 by Sean Allen] (https://www.youtube.com/watch?v=QoLMlKuZiBI)
+* [Swift News #55 by Sean Allen](https://www.youtube.com/watch?v=QoLMlKuZiBI)
 
 **Jobs**
 
