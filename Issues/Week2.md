@@ -25,6 +25,10 @@
 
 * [Eliminate Unused Swift Code](https://github.com/peripheryapp/periphery), by [Periphery](https://github.com/peripheryapp)
 
+* [Advance](https://github.com/timdonnelly/Advance), by [timdonnelly](https://github.com/timdonnelly)
+
+* [SPLarkController](https://github.com/IvanVorobei/SPLarkController), by [IvanVorobei](https://github.com/IvanVorobei)
+
 **Business/Career**
 
 * [How I failed 39 interviews and what I’ve learned](https://medium.com/flawless-app-stories/how-i-failed-39-interviews-and-what-ive-learned-515c8e6c4b53), by [@hassanedesouky](https://twitter.com/hassanedesouky)
