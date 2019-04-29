@@ -25,7 +25,9 @@
 
 **Videos**
 
-*
+* [discussing an open source project](https://www.youtube.com/watch?v=a2DpyBabUIs), by [@aessam](https://github.com/aessam)
+
+* [Building an ARKit app with SceneKit and Codable](https://www.youtube.com/watch?v=XqRVfB521Fo), by [@twostraws](https://github.com/twostraws)
 
 **Credits**
 
