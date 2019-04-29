@@ -7,9 +7,6 @@
 
 * [Building a Scalable app (group of articles)](https://basememara.com/series/build-scalable-app/), by [@basememara](https://github.com/basememara)
 
-* [Top iOS interview questions and answers (2 parts)](https://medium.com/ios-expert-series-or-interview-series/top-ios-interview-questions-and-answers-april-2019-part-i-9f512d82aedc), by [@sallyahmed](https://github.com/sallyahmed)
-
-
 **Tools/Controls/Pods**
 
 * [SnapKit](https://github.com/SnapKit/SnapKit)
