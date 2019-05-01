@@ -9,6 +9,8 @@
 
 * [Everything you need to know about Loading Animations](https://medium.com/flawless-app-stories/everything-you-need-to-know-about-loading-animations-10db7f9b61e), by [@Lisa Dziuba](https://twitter.com/LisaDziuba)
 
+* [Sharing Swift Code Between iOS and Server Applications](https://www.raywenderlich.com/2401813-sharing-swift-code-between-ios-and-server-applications), by [@0xTim](https://twitter.com/0xtim)
+
 **Tools/Controls/Pods**
 
 * [SnapKit](https://github.com/SnapKit/SnapKit)
@@ -18,9 +20,6 @@
 * [ConstraintDSL](https://github.com/fadi-botros/ios-constraint-dsl)
 
 * [PanModal](https://github.com/slackhq/PanModal)
-
-
-
 
 **Business/Career**
 
