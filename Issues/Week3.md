@@ -7,6 +7,8 @@
 
 * [Building a Scalable app (group of articles)](https://basememara.com/series/build-scalable-app/), by [@basememara](https://github.com/basememara)
 
+* [Everything you need to know about Loading Animations](https://medium.com/flawless-app-stories/everything-you-need-to-know-about-loading-animations-10db7f9b61e), by [@Lisa Dziuba](https://twitter.com/LisaDziuba)
+
 **Tools/Controls/Pods**
 
 * [SnapKit](https://github.com/SnapKit/SnapKit)
@@ -14,6 +16,10 @@
 * [JTCalendar](https://github.com/jonathantribouharet/JTCalendar)
 
 * [ConstraintDSL](https://github.com/fadi-botros/ios-constraint-dsl)
+
+* [PanModal](https://github.com/slackhq/PanModal)
+
+
 
 
 **Business/Career**
@@ -24,7 +30,7 @@
 
 **UI/UX**
 
-*
+* [Humane by Design guidance](https://humanebydesign.com/)
 *
 *
 
@@ -36,4 +42,4 @@
 
 **Credits**
 
-[@moelnaggar](https://github.com/MoElnaggar14), [@fadi_botros](https://github.com/fadi-botros)
+[@moelnaggar](https://github.com/MoElnaggar14), [@fadi_botros](https://github.com/fadi-botros), [@iramzy](https://github.com/iramzy)
