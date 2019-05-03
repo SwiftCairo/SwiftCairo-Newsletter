@@ -13,6 +13,12 @@
 
 * [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f), by [@Khoa Pham](https://medium.com/@onmyway133)
 
+* [Sharing Code between iOS and Android using C++](https://link.medium.com/dY3UGc77iW), by [@nmaerki](https://medium.com/@nmaerki)
+
+* [Extracting presentation logic to make it testable](https://mecid.github.io/2019/05/01/extracting-presentation-logic-to-make-it-testable), by [@mecid](https://github.com/mecid)
+
+* [Dealing with bugs on mobile apps](https://link.medium.com/F3x6cNZpcW), by [@froger_mcs](https://twitter.com/froger_mcs)
+
 
 **Tools/Controls/Pods**
 
@@ -35,8 +41,9 @@
 **UI/UX**
 
 * [Humane by Design guidance](https://humanebydesign.com/)
-*
-*
+
+* [How to make Auto Layout more convenient in iOS](https://link.medium.com/8SSeLJoRbW), by [@onmyway133](https://twitter.com/onmyway133)
+
 
 **Videos**
 
