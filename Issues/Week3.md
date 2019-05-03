@@ -30,6 +30,8 @@
 
 * [PanModal](https://github.com/slackhq/PanModal)
 
+* [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger)
+
 **Business/Career**
 
 * [MongoDB to Acquire Realm - The Future is Bright](https://realm.io/blog/mongodb-to-acquire-realm-the-future-is-bright/), by [@davidhratner](https://twitter.com/davidhratner)
