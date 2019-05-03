@@ -11,6 +11,9 @@
 
 * [Sharing Swift Code Between iOS and Server Applications](https://www.raywenderlich.com/2401813-sharing-swift-code-between-ios-and-server-applications), by [@0xTim](https://twitter.com/0xtim)
 
+* [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f), by [@Khoa Pham](https://medium.com/@onmyway133)
+
+
 **Tools/Controls/Pods**
 
 * [SnapKit](https://github.com/SnapKit/SnapKit)
@@ -41,4 +44,4 @@
 
 **Credits**
 
-[@moelnaggar](https://github.com/MoElnaggar14), [@fadi_botros](https://github.com/fadi-botros), [@iramzy](https://github.com/iramzy)
+[@moelnaggar](https://github.com/MoElnaggar14), [@fadi_botros](https://github.com/fadi-botros), [@iramzy](https://github.com/iramzy), [@yoloabdo](https://github.com/yoloabdo)
