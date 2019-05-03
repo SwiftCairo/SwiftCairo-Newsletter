@@ -26,9 +26,11 @@
 
 **Business/Career**
 
-*
-*
-*
+* [MongoDB to Acquire Realm - The Future is Bright](https://realm.io/blog/mongodb-to-acquire-realm-the-future-is-bright/), by [@davidhratner](https://twitter.com/davidhratner)
+
+* [Not even worth one star: Reacting constructively to App Store reviews](https://www.youtube.com/watch?v=qOiaGJMJkjc&feature=youtu.be), by [@DamianMehers](https://twitter.com/DamianMehers)
+
+* [Toronton teen makes $280k in revenue with a Supreme bot iOS app. Are bots for automating purchases on exclusive online retailers generally allowed by Apple App Store policy?](https://omr.com/en/supbot-teen-toronto), by [@OMRockstars](https://twitter.com/OMRockstars)
 
 **UI/UX**
 
