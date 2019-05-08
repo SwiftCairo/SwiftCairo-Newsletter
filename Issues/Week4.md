@@ -31,5 +31,12 @@
 *
 *
 
+**Jobs**
+
+* [iOS Developer @ Swvl](https://swvl.workable.com/j/718079AB10)
+
+* [Senior iOS Developer @ Swvl](https://swvl.workable.com/j/C68EC5FBBF)
+
 **Credits**
  
+[@moelnaggar](https://github.com/MoElnaggar14)
