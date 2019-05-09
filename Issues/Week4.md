@@ -17,6 +17,8 @@
 
 * [Cards](https://github.com/PaoloCuscela/Cards)
 
+* [Owl](https://github.com/malcommac/Owl)
+
 **Business/Career**
 
 *
@@ -25,8 +27,8 @@
 
 **UI/UX**
 
-*
-*
+* [11 tips to improve notifications](https://blog.prototypr.io/tips-to-improve-notifications-9e13250b3055), by [@akss_29](https://twitter.com/akss_29)
+
 *
 
 **Videos**
