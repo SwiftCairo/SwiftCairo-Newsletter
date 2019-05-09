@@ -3,7 +3,7 @@
 
 **Articles**
 
-*
+* [UIButton: Padding Between Image and Text](https://noahgilmore.com/blog/uibutton-padding/), by [Noah Gilmore](https://twitter.com/noahsark769)
 *
 *
 
@@ -40,4 +40,4 @@
 
 **Credits**
  
-[@moelnaggar](https://github.com/MoElnaggar14)
+[@moelnaggar](https://github.com/MoElnaggar14), [@ahmedkhalaf_92](https://twitter.com/ahmedkhalaf_92)
