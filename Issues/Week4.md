@@ -7,6 +7,8 @@
 
 * [Peek and Pop Cell](https://medium.com/@dimohamdy/peek-and-pop-cell-9ae6f11f9689), by [@dimohamdy](https://twitter.com/dimohamdy)
 
+* [Image Resizing Techniques](https://nshipster.com/image-resizing), by [@mattt](https://twitter.com/mattt)
+
 **Tools/Controls/Pods**
 
 * [NSFWDetector](https://github.com/lovoo/NSFWDetector)
