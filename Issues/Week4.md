@@ -19,6 +19,10 @@
 
 * [Owl](https://github.com/malcommac/Owl)
 
+* [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit)
+
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit)
+
 **Business/Career**
 
 *
