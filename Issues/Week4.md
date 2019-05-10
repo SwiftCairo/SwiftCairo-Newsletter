@@ -33,7 +33,7 @@
 
 * [11 tips to improve notifications](https://blog.prototypr.io/tips-to-improve-notifications-9e13250b3055), by [@akss_29](https://twitter.com/akss_29)
 
-*
+* [Sketch Tools for Making Art](https://blog.prototypr.io/sketch-tools-for-making-art-d17289841588), by [@buninux](https://twitter.com/buninux)
 
 **Videos**
 
