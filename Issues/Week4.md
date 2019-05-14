@@ -9,6 +9,8 @@
 
 * [Image Resizing Techniques](https://nshipster.com/image-resizing), by [@mattt](https://twitter.com/mattt)
 
+* [Provisioning Profile](https://medium.com/@jadhavrajashri49/provisioning-profile-67fad1907694), by [@jadhavrajashri49](https://medium.com/@jadhavrajashri49)
+
 **Tools/Controls/Pods**
 
 * [NSFWDetector](https://github.com/lovoo/NSFWDetector)
@@ -50,4 +52,4 @@
 
 **Credits**
  
-[@moelnaggar](https://github.com/MoElnaggar14), [@ahmedkhalaf_92](https://twitter.com/ahmedkhalaf_92)
+[@moelnaggar](https://github.com/MoElnaggar14), [@ahmedkhalaf_92](https://twitter.com/ahmedkhalaf_92), [@iramzy](https://github.com/iramzy)
