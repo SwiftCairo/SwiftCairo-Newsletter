@@ -37,12 +37,11 @@
 
 * [Sketch Tools for Making Art](https://blog.prototypr.io/sketch-tools-for-making-art-d17289841588), by [@buninux](https://twitter.com/buninux)
 
+* [IOS Deep linking: URL Scheme vs Universal Links](https://medium.com/wolox-driving-innovation/ios-deep-linking-url-scheme-vs-universal-links-50abd3802f97), by [@juanfrancoc](https://twitter.com/juanfrancoc)
+
 **Videos**
 
 * [OO Design for Testability](https://www.youtube.com/watch?v=acjvKJiOvXw)
-
-*
-
 
 **Jobs**
 
