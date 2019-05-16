@@ -27,9 +27,9 @@
 
 **Business/Career**
 
-*
-*
-*
+* [App Store Pricing](https://beckyhansmeyer.com/2019/05/11/app-store-pricing), by [@bhansmeyer](https://twitter.com/bhansmeyer)
+
+* [Being Afraid to Change a Working App](https://christiantietze.de/posts/2019/05/changing-running-app), by [ctietze](https://twitter.com/ctietze)
 
 **UI/UX**
 
