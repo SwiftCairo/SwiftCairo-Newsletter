@@ -5,6 +5,7 @@
 
 * [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/), by [@twannl](https://twitter.com/twannl)
 
+* [Building forms with SwiftUI](https://medium.com/snowdog-labs/combine-framework-in-action-fb91fd101602), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls/Pods**
 
