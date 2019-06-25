@@ -12,6 +12,12 @@
 
 * [LoadingShimmer](https://github.com/jogendra/LoadingShimmer)
 
+* [appstore-card-transition](https://github.com/appssemble/appstore-card-transition) - Easily add an App Store like transition to your view controllers, by [@chelemen_razvan](https://twitter.com/chelemen_razvan)
+
+* [Swiftbrew](https://github.com/swiftbrew/Swiftbrew) - Homebrew for Swift packages, by [@thi_dt](https://twitter.com/thi_dt)	
+
+* [ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers, by [@SvenTiigi](https://twitter.com/SvenTiigi)
+
 **Business/Career**
 
 *
