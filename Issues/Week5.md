@@ -28,6 +28,7 @@
 **Videos**
 
 * [SwiftUI Videos Collection](https://github.com/ygit/swiftui), by [@ygit](https://github.com/ygit)
+* [UIKonf 2019](https://www.youtube.com/playlist?list=PLdr22uU_wISr-FYeKblv3LMe_kHFzRFBw)
 
 **Credits**
  
