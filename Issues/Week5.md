@@ -7,6 +7,10 @@
 
 * [Building forms with SwiftUI](https://medium.com/snowdog-labs/combine-framework-in-action-fb91fd101602), by [@mecid](https://twitter.com/mecid)
 
+* [Animations in SwiftUI](https://mecid.github.io/2019/06/26/animations-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+
+* [Combine framework in action](https://medium.com/snowdog-labs/combine-framework-in-action-fb91fd101602), by [@mecid](https://twitter.com/mecid)
+
 * [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f), by [@v_pradeilles](https://twitter.com/v_pradeilles)
 
 **Tools/Controls/Pods**
@@ -27,9 +31,15 @@
 
 * [Senior iOS Engineer](https://robusta.workable.com/j/42B6AD7364), at [robusta](https://robustastudio.com)
 
+* [When did work-life balance become such a bad thing?](https://m.signalvnoise.com/when-did-work-life-balance-become-such-a-bad-thing/), by [@dhh](https://twitter.com/dhh)
+
 **UI/UX**
 
 * [Using Sky Segmentation to create stunning background animations in iOS](https://medium.com/flawless-app-stories/using-sky-segmentation-to-create-stunning-background-animations-in-ios-4b4b2548061), by [@hsiaoer5](https://twitter.com/hsiaoer5)
+
+* [Design Principles: an introduction to visual hierarchy](https://uxdesign.cc/design-principles-an-introduction-to-visual-hierarchy-902d58e1c7b3), by [@MiklosPhilips](https://twitter.com/MiklosPhilips)
+
+* [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/), by [@uxmovement](https://twitter.com/uxmovement)
 
 **Videos**
 
