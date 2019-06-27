@@ -7,6 +7,8 @@
 
 * [Building forms with SwiftUI](https://medium.com/snowdog-labs/combine-framework-in-action-fb91fd101602), by [@mecid](https://twitter.com/mecid)
 
+* [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f), by [@v_pradeilles](https://twitter.com/v_pradeilles)
+
 **Tools/Controls/Pods**
 
 * [BadgeHub](https://github.com/jogendra/BadgeHub)
@@ -23,15 +25,11 @@
 
 **Business/Career**
 
-*
-*
-*
+* [Senior iOS Engineer](https://robusta.workable.com/j/42B6AD7364), at [robusta](https://robustastudio.com)
 
 **UI/UX**
 
-*
-*
-*
+* [Using Sky Segmentation to create stunning background animations in iOS](https://medium.com/flawless-app-stories/using-sky-segmentation-to-create-stunning-background-animations-in-ios-4b4b2548061), by [@hsiaoer5](https://twitter.com/hsiaoer5)
 
 **Videos**
 
@@ -44,3 +42,4 @@
 **Credits**
  
 [@moelnaggar](https://github.com/MoElnaggar14)
+[@hassaneldesouky](https://github.com/hassaneldesouky)
