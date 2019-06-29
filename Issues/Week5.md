@@ -41,6 +41,8 @@
 
 * [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/), by [@uxmovement](https://twitter.com/uxmovement)
 
+* [Revisiting the iconography of Apple Maps](https://medium.com/@mercury/apple-maps-iconography-revisited-82513e8b6871), by [@mercury](https://twitter.com/mercury)
+
 **Videos**
 
 * [SwiftUI Videos Collection](https://github.com/ygit/swiftui), by [@ygit](https://github.com/ygit)
@@ -51,5 +53,4 @@
 
 **Credits**
  
-[@moelnaggar](https://github.com/MoElnaggar14)
-[@hassaneldesouky](https://github.com/hassaneldesouky)
+[@moelnaggar](https://github.com/MoElnaggar14), [@hassaneldesouky](https://github.com/hassaneldesouky)
