@@ -11,6 +11,7 @@
 
 * [Combinative](https://github.com/noppefoxwolf/Combinative) - UI Event Handling, by [@noppefoxwolf](https://twitter.com/noppefoxwolf)
 
+* [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)
 
 **Business/Career**
 
