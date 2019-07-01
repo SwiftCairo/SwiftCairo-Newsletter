@@ -9,8 +9,6 @@
 
 * [Animations in SwiftUI](https://mecid.github.io/2019/06/26/animations-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
-* [Combine framework in action](https://medium.com/snowdog-labs/combine-framework-in-action-fb91fd101602), by [@mecid](https://twitter.com/mecid)
-
 * [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f), by [@v_pradeilles](https://twitter.com/v_pradeilles)
 
 **Tools/Controls/Pods**
