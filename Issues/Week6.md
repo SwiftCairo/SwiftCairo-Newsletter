@@ -31,9 +31,8 @@
 
 **Videos**
 
-*
-*
-*
+* [WWDC 2019 Top 10 Videos](https://www.raywenderlich.com/3868932-wwdc-2019-top-10-videos), by [@rcritz](https://twitter.com/rcritz)
+
 
 **Credits**
  [@moelnaggar14](https://github.com/MoElnaggar14)
