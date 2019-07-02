@@ -13,6 +13,10 @@
 
 * [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)
 
+* [HTMLKit](https://github.com/vapor-community/HTMLKit) - A lightning fast, type-safe HTML templating library built for Swift
+
+* [YRPayment](https://github.com/yassram/YRPayment) - Better payment user experience library with cool animation in Swift, by [@ramsserio](https://twitter.com/ramsserio)
+
 **Business/Career**
 
 *
