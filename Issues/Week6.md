@@ -23,6 +23,8 @@
 
 * [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - A library for backporting UITableView/UICollectionViewDiffableDataSource., by [@ra1028fe5](https://twitter.com/ra1028fe5)
 
+* [BiometricKeychain](https://github.com/appssemble/BiometricKeychain) - Easily store data in the keychain with biometric authentication, by [@dobreandl](https://twitter.com/dobreandl)
+
 **Business/Career**
 
 *
