@@ -3,6 +3,8 @@
 
 **Articles**
 
+* [Swift Tips](https://swiftbysundell.com/tips), by [@johnsundell](https://twitter.com/johnsundell)
+ 
 * [UIStackView Essentials](https://nshipster.com/uistackview/), by [@kaishin](https://twitter.com/kaishin)
 
 * [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/), by [@twannl](https://twitter.com/twannl)
