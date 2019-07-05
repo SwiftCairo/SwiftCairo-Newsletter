@@ -15,6 +15,8 @@
 
 * [XCFrameworks Internals](https://appspector.com/blog/xcframeworks), by [@appspector](https://twitter.com/appspector)
 
+* [iOS Memory Management in Under 6 Minutes](https://medium.com/flawless-app-stories/ios-memory-management-in-under-6-minutes-3be777f69b7e), by [@hassanedesouky](https://twitter.com/hassanedesouky)
+
 **Tools/Controls/Pods**
 
 * [Combinative](https://github.com/noppefoxwolf/Combinative) - UI Event Handling, by [@noppefoxwolf](https://twitter.com/noppefoxwolf)
@@ -45,4 +47,4 @@
 
 **Credits**
  
-* [@moelnaggar14](https://github.com/MoElnaggar14)
+* [@moelnaggar14](https://github.com/MoElnaggar14), [@hassaneldesouky](https://github.com/HassanElDesouky)
