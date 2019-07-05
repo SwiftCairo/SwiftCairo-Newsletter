@@ -13,6 +13,7 @@
 
 * [SwiftUI changes in Xcode 11 Beta 3](https://sarunw.com/posts/swiftui-changes-in-xcode-11-beta-3), by [@sarunw](https://twitter.com/sarunw)
 
+* [XCFrameworks Internals](https://appspector.com/blog/xcframeworks), by [@appspector](https://twitter.com/appspector)
 
 **Tools/Controls/Pods**
 
@@ -30,15 +31,11 @@
 
 **Business/Career**
 
-*
-*
-*
+* [Making Your Version Number Super-Visible in iOS](https://thoughtbot.com/blog/making-your-version-number-super-visible), by [@louis-antonopoulos](https://github.com/louis-antonopoulos)
 
 **UI/UX**
 
-*
-*
-*
+* [Generating iOS/Android variable-size app icons instantly without software](https://link.medium.com/OgTWLeOI1X), by [@saamerm](https://twitter.com/saamerm)
 
 **Videos**
 
