@@ -11,6 +11,9 @@
 
 * [Combine framework in action](https://medium.com/snowdog-labs/combine-framework-in-action-part-2-63c7d652b32f), by [@mecid](https://twitter.com/mecid)
 
+* [SwiftUI changes in Xcode 11 Beta 3](https://sarunw.com/posts/swiftui-changes-in-xcode-11-beta-3), by [@sarunw](https://twitter.com/sarunw)
+
+
 **Tools/Controls/Pods**
 
 * [Combinative](https://github.com/noppefoxwolf/Combinative) - UI Event Handling, by [@noppefoxwolf](https://twitter.com/noppefoxwolf)
@@ -41,6 +44,7 @@
 
 * [WWDC 2019 Top 10 Videos](https://www.raywenderlich.com/3868932-wwdc-2019-top-10-videos), by [@rcritz](https://twitter.com/rcritz)
 
+* [How to create dymanic lists in SwiftUI using a JSON API](https://www.youtube.com/watch?v=ri1A032zfLo&feature=youtu.be)
 
 **Credits**
  
