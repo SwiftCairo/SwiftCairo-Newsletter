@@ -3,9 +3,11 @@
 
 **Articles**
 
-*
-*
-*
+* [Combine debugging using operators in Swift](https://www.avanderlee.com/debugging/combine-swift/), by [@twannl](https://www.twitter.com/twannl)
+
+* [Ultimate Catalyst Guide](https://appventure.me/guides/catalyst/intro.html), by [@terhechte](https://twitter.com/terhechte)
+
+* [Customizing Codable types in Swift](https://www.swiftbysundell.com/posts/customizing-codable-types-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls/Pods**
 
@@ -15,9 +17,7 @@
 
 **Business/Career**
 
-*
-*
-*
+* [How To Stay Sane As A Remote Developer](https://medium.com/swlh/how-to-stay-sane-as-a-remote-developer-48377bae99d3), by [@JimmyMAndersson](https://twitter.com/JimmyMAndersson)
 
 **UI/UX**
 
