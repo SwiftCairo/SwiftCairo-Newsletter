@@ -3,6 +3,8 @@
 
 **Articles**
 
+* [Gestures in SwiftUI](https://mecid.github.io/2019/07/10/gestures-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+
 * [Combine debugging using operators in Swift](https://www.avanderlee.com/debugging/combine-swift/), by [@twannl](https://www.twitter.com/twannl)
 
 * [Ultimate Catalyst Guide](https://appventure.me/guides/catalyst/intro.html), by [@terhechte](https://twitter.com/terhechte)
