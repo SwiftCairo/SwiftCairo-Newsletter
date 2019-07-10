@@ -11,6 +11,8 @@
 
 * [Customizing Codable types in Swift](https://www.swiftbysundell.com/posts/customizing-codable-types-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
+* [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77), by [@AliuArlind](https://twitter.com/AliuArlind)
+
 **Tools/Controls/Pods**
 
 * [GridStack - A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack), by [@pietropizzi](https://twitter.com/pietropizzi)
