@@ -13,6 +13,8 @@
 
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77), by [@AliuArlind](https://twitter.com/AliuArlind)
 
+* [Swift Generics Tutorial - RayWenderlich](https://www.raywenderlich.com/3535703-swift-generics-tutorial-getting-started?utm_campaign=rw-weekly-issue-225&utm_medium=email&utm_source=rw-weekly), by [@TheMikeKatz](https://twitter.com/TheMikeKatz)
+
 **Tools/Controls/Pods**
 
 * [GridStack - A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack), by [@pietropizzi](https://twitter.com/pietropizzi)
