@@ -17,6 +17,8 @@
 
 * [GridStack - A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack), by [@pietropizzi](https://twitter.com/pietropizzi)
 
+* [TransitPal](https://github.com/robbiet480/TransitPal) - A open source Swift app for iOS 13 that allows you to check your NFC transit card information, by [@robbiet480](https://twitter.com/robbiet480)
+
 * [swift-apis](https://github.com/tensorflow/swift-apis) - Swift for TensorFlow Deep Learning Library , by [@TensorFlow](https://twitter.com/TensorFlow)
 
 * [Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system, by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
