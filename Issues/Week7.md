@@ -39,7 +39,7 @@
 
 **Videos**
 
-*
+* [Privacy Aware Logging with Swift](https://www.youtube.com/watch?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B412&v=nIGlxcUES_Q)
 
 **Credits**
  
