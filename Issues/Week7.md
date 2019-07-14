@@ -35,6 +35,8 @@
 
 * [10-minute tips to make your iOS app more interactive](https://infinum.co/the-capsized-eight/10-minute-tips-to-make-your-iOS-app-more-interactive), by [@goran310](https://github.com/goran310)
 
+* [iOS 13 Large Content Viewer](https://www.fivestars.blog/code/large-content-viewer.html?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B412), by [@zntfdr](https://twitter.com/zntfdr)
+
 **Videos**
 
 *
