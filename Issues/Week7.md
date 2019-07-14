@@ -19,6 +19,8 @@
 
 * [GridStack - A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack), by [@pietropizzi](https://twitter.com/pietropizzi)
 
+* [NSAttributedStringBuilder - Composing NSAttributedString with SwiftUI-style syntax](https://github.com/ethanhuang13/NSAttributedStringBuilder), by [@ethanhuang13](https://twitter.com/ethanhuang13)
+
 * [TransitPal - A open source Swift app for iOS 13 that allows you to check your NFC transit card information](https://github.com/robbiet480/TransitPal), by [@robbiet480](https://twitter.com/robbiet480)
 
 * [swift-apis - Swift for TensorFlow Deep Learning Library](https://github.com/tensorflow/swift-apis), by [@TensorFlow](https://twitter.com/TensorFlow)
@@ -32,13 +34,9 @@
 **UI/UX**
 
 *
-*
-*
 
 **Videos**
 
-*
-*
 *
 
 **Credits**
