@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [XCAssetsKit - .xcassets parser written in Swift](https://github.com/natmark/XCAssetsKit), by [@n_atmark](https://twitter.com/n_atmark)
 
 **Business/Career**
 
