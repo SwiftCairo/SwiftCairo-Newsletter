@@ -3,7 +3,7 @@
 
 **Articles**
 
-* 
+* [UIKeyCommand how-to add keyboard shortcuts & speed up your workflow](https://www.avanderlee.com/swift/uikeycommand-keyboard-shortcuts), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
