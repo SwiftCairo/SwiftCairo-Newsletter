@@ -25,7 +25,9 @@
 
 **UI/UX**
 
-* 
+* [How Uber quietly redesigned its interface for the rest of the world](https://www.fastcompany.com/90375845/how-uber-quietly-redesigned-its-interface-for-the-rest-of-the-world), by [@kschwabable](https://twitter.com/kschwabable)
+
+* [Testing Fast And Cheap: Designer’s Guide To UX Research. Part 1.](https://uxplanet.org/testing-fast-and-cheap-a-designers-guide-to-ux-research-part-1-a6b73d882136), by [@lina_calouhina](https://twitter.com/lina_calouhina)
 
 **Videos**
 
