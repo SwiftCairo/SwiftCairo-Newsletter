@@ -9,6 +9,8 @@
 
 * [Managing background tasks with the new Task Scheduler in iOS 13](https://medium.com/snowdog-labs/managing-background-tasks-with-new-task-scheduler-in-ios-13-aaabdac0d95b), by [@mecid](https://twitter.com/mecid)
 
+* [Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056), by [@Dimillian](https://twitter.com/Dimillian)
+
 **Tools/Controls**
 
 * [XCAssetsKit - .xcassets parser written in Swift](https://github.com/natmark/XCAssetsKit), by [@n_atmark](https://twitter.com/n_atmark)
