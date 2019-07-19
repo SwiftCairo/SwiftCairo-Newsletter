@@ -21,7 +21,7 @@
 
 **Business/Career**
 
-* 
+* [Distributing Custom B2B iOS Apps privately](https://coletiv.com/blog/distribute-custom-b2b-ios-app/), by [@coletivstudio](https://twitter.com/coletivstudio)
 
 **UI/UX**
 
