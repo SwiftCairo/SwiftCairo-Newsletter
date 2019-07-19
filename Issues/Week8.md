@@ -11,6 +11,8 @@
 
 * [CrashReporterMac - Lightweight macOS Crash Reporter Setup](https://github.com/CleanCocoa/CrashReporter)
 
+* [QGrid - The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid)
+
 **Business/Career**
 
 * 
