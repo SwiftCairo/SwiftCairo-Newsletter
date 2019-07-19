@@ -11,6 +11,12 @@
 
 * [Making a Real World Application With SwiftUI](https://medium.com/better-programming/making-a-real-world-application-with-swiftui-cb40884c1056), by [@Dimillian](https://twitter.com/Dimillian)
 
+* [So They've Signed in with Apple, Now What?](https://blog.curtisherbert.com/so-theyve-signed-in-with-apple-now-what/), by [@parrots](https://twitter.com/parrots)
+
+* [Continuous Integration](http://khanlou.com/2019/07/continuous-integration/), by [@khanlou](http://www.twitter.com/khanlou)
+
+* [Performing cryptographic operations with CryptoKit on iOS 13](https://schiavo.me/2019/cryptokit-operations/)[@justJS_dev](https://twitter.com/justJS_dev)
+
 **Tools/Controls**
 
 * [XCAssetsKit - .xcassets parser written in Swift](https://github.com/natmark/XCAssetsKit), by [@n_atmark](https://twitter.com/n_atmark)
