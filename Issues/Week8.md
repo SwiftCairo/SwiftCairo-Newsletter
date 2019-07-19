@@ -31,7 +31,7 @@
 
 **Videos**
 
-* 
+* [Talks at ADDC 2019](https://addconf.com/2019/talks/), by [@addconf](https://twitter.com/addconf)
 
 **Credits**
 
