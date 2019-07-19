@@ -17,6 +17,8 @@
 
 * [QGrid - The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid)
 
+* [Customerly Live Chat 3.0 - In app support with Live Chat](https://github.com/customerly/Customerly-iOS-SDK), by [@customerlyio](https://twitter.com/customerlyio)
+
 **Business/Career**
 
 * 
