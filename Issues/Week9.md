@@ -3,9 +3,7 @@
 
 **Articles**
 
-*
-*
-*
+* [3 Reasons Why You Should Work Directly in the Cloud](https://www.welcometothejungle.co/en/articles/reasons-work-cloud)
 
 **Tools/Controls**
 
