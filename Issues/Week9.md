@@ -3,7 +3,9 @@
 
 **Articles**
 
-* [3 Reasons Why You Should Work Directly in the Cloud](https://www.welcometothejungle.co/en/articles/reasons-work-cloud)
+*
+*
+*
 
 **Tools/Controls**
 
@@ -11,9 +13,7 @@
 
 **Business/Career**
 
-*
-*
-*
+* [3 Reasons Why You Should Work Directly in the Cloud](https://www.welcometothejungle.co/en/articles/reasons-work-cloud), by [@behind_thecode](https://twitter.com/behind_thecode)
 
 **UI/UX**
 
@@ -29,4 +29,4 @@
 
 **Credits**
 
-*
+* [moelnaggar14](https://github.com/MoElnaggar14)
