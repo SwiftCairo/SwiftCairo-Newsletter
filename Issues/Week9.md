@@ -3,9 +3,8 @@
 
 **Articles**
 
-*
-*
-*
+* [Save UIColor with UserDefaults in Swift 5](https://medium.com/@hassaneldesouky/save-uicolor-with-userdefaults-in-swift-5-951ef1aa88e8), by [@hassanedesouky](https://twitter.com/hassanedesouky)
+
 
 **Tools/Controls**
 
@@ -29,4 +28,4 @@
 
 **Credits**
 
-* [moelnaggar14](https://github.com/MoElnaggar14)
+* [moelnaggar14](https://github.com/MoElnaggar14), [hassaneldesouky](https://github.com/HassanElDesouky)
