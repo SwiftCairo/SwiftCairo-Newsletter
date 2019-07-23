@@ -10,6 +10,8 @@
 
 * [Morphi - Shapes for SwiftUI ♡☾](https://github.com/phimage/morphi), by [@Phimageio](https://twitter.com/Phimageio)
 
+* [Proxy - Swift package that implements mutable and immutable proxy objects through @dynamicMemberLookup, and lazy proxy-based object builders](https://github.com/alexdrone/Proxy), by [@alexdrone](https://twitter.com/alexdrone)
+
 **Business/Career**
 
 * [3 Reasons Why You Should Work Directly in the Cloud](https://www.welcometothejungle.co/en/articles/reasons-work-cloud), by [@behind_thecode](https://twitter.com/behind_thecode)
