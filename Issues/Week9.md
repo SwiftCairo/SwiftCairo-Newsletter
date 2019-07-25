@@ -12,7 +12,7 @@
 
 * [Proxy - Swift package that implements mutable and immutable proxy objects through @dynamicMemberLookup, and lazy proxy-based object builders](https://github.com/alexdrone/Proxy), by [@alexdrone](https://twitter.com/alexdrone)
 
-* [Awesome-Xcode-Behaviors - 👈 Quickly and easily do annoying tasks with xcode shortcuts](https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors), by [@JeaSungLEE](https://github.com/JeaSungLEE)
+* [Awesome-Xcode-Behaviors - 👈 Quickly and easily do annoying tasks with xcode shortcuts](https://github.com/JeaSungLEE/Awesome-Xcode-Behaviors), by [JeaSungLEE]
 
 **Business/Career**
 
