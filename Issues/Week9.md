@@ -5,6 +5,7 @@
 
 * [Save UIColor with UserDefaults in Swift 5](https://medium.com/@hassaneldesouky/save-uicolor-with-userdefaults-in-swift-5-951ef1aa88e8), by [@hassanedesouky](https://twitter.com/hassanedesouky)
 
+* [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
@@ -20,7 +21,9 @@
 
 **UI/UX**
 
-* [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up), by [@twannl](https://twitter.com/twannl)
+* [iOS 13 Contextual Menus](https://lmjabreu.com/post/ios13contextualmenus/), by [@lmjabreu](https://twitter.com/lmjabreu)
+
+* [8 Rules for Perfect Typography in UI](https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce), by [@thedsgnr](https://twitter.com/thedsgnr)
 
 **Videos**
 
