@@ -7,6 +7,14 @@
 
 * [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up), by [@twannl](https://twitter.com/twannl)
 
+* [Alerts, ActionSheets, Modals and Popovers in SwiftUI](https://mecid.github.io/2019/07/24/alerts-actionsheets-modals-and-popovers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+
+* [Advanced testing using `Behavior` in Quick](https://vojtastavik.com/2019/07/22/advanced-testing-using-behavior-in-quick/), by [@VojtaStavik](https://twitter.com/VojtaStavik)
+
+* [Utilizing value semantics in Swift](https://www.swiftbysundell.com/posts/utilizing-value-semantics-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+
+* [Alpha Compositing](https://ciechanow.ski/alpha-compositing/), by [@bciechanowski](https://twitter.com/bciechanowski)
+
 **Tools/Controls**
 
 * [Morphi - Shapes for SwiftUI ♡☾](https://github.com/phimage/morphi), by [@Phimageio](https://twitter.com/Phimageio)
