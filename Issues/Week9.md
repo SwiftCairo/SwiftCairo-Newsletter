@@ -27,6 +27,8 @@
 
 * [3 Reasons Why You Should Work Directly in the Cloud](https://www.welcometothejungle.co/en/articles/reasons-work-cloud), by [@behind_thecode](https://twitter.com/behind_thecode)
 
+* [Planning to Start, Planning to Finish](https://breakingsmart.substack.com/p/planning-to-start-planning-to-finish), by [@breaking_smart](https://twitter.com/breaking_smart)
+
 **UI/UX**
 
 * [iOS 13 Contextual Menus](https://lmjabreu.com/post/ios13contextualmenus/), by [@lmjabreu](https://twitter.com/lmjabreu)
@@ -35,8 +37,6 @@
 
 **Videos**
 
-*
-*
 *
 
 **Credits**
