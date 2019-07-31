@@ -35,9 +35,9 @@
 
 * [8 Rules for Perfect Typography in UI](https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce), by [@thedsgnr](https://twitter.com/thedsgnr)
 
-**Videos**
+**Podcast**
 
-*
+* [Developer side projects](https://podcasts.apple.com/eg/podcast/developer-side-projects/id1446670114?i=1000444830977)
 
 **Credits**
 
