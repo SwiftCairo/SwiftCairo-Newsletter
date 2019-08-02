@@ -9,6 +9,8 @@
 
 * [iOS Automated Testing with Fastlane 🚀](https://coletiv.com/blog/ios-automated-testing-fastlane/), by [@coletivstudio](https://twitter.com/coletivstudio)
 
+* [SwiftUIX - An extension to the standard SwiftUI library](https://github.com/SwiftUIX/SwiftUIX)
+
 **Business/Career**
 
 *
