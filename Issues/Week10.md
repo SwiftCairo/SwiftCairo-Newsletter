@@ -13,6 +13,10 @@
 
 * [SwiftUIX - An extension to the standard SwiftUI library](https://github.com/SwiftUIX/SwiftUIX)
 
+* [sfsymbols - a quick-and-dirty command-line tool to export the shapes inside the SF Symbols font as code.](https://github.com/davedelong/sfsymbols?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415)
+
+* [Project generation](https://ppinera.es/2019/07/22/project-generation/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415)
+
 **Business/Career**
 
 * [On Launching Your Indie App](https://www.swiftjectivec.com/on-launching-your-indie-app/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415)
