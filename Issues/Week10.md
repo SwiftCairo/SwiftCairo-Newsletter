@@ -13,7 +13,7 @@
 
 **Business/Career**
 
-*
+* [On Launching Your Indie App](https://www.swiftjectivec.com/on-launching-your-indie-app/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415)
 
 **UI/UX**
 
