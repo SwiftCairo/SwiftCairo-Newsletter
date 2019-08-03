@@ -21,7 +21,9 @@
 
 **UI/UX**
 
-*
+* [An Important Feature Xcode is Still Missing](https://medium.com/swlh/an-important-feature-xcode-is-still-missing-17effe59b521), by maustinstar
+
+* [iOS 13 Contextual Menus](https://lmjabreu.com/post/ios13contextualmenus/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415)
 
 **Videos**
 
