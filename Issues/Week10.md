@@ -5,6 +5,8 @@
 
 * [Xcode refactoring options explained with examples](https://www.avanderlee.com/swift/xcode-refactoring), by [@twannl](https://twitter.com/twannl)
 
+* [THE ALERT HAMMER](https://pfandrade.me/blog/the-alert-hammer/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415), by [pfandrade_](https://twitter.com/pfandrade_)
+
 **Tools/Controls**
 
 * [iOS Automated Testing with Fastlane 🚀](https://coletiv.com/blog/ios-automated-testing-fastlane/), by [@coletivstudio](https://twitter.com/coletivstudio)
