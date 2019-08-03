@@ -17,6 +17,8 @@
 
 * [On Launching Your Indie App](https://www.swiftjectivec.com/on-launching-your-indie-app/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415)
 
+* [It's Okay To Say Goodbye </3](https://dev.to/alec_dilanchian/it-s-okay-to-say-goodbye-3-5e9c), by [@alec_dilanchian](https://twitter.com/alec_dilanchian)
+
 **UI/UX**
 
 *
