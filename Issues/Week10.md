@@ -7,6 +7,16 @@
 
 * [THE ALERT HAMMER](https://pfandrade.me/blog/the-alert-hammer/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415), by [pfandrade_](https://twitter.com/pfandrade_)
 
+* [Introducing Container views in SwiftUI](https://mecid.github.io/2019/07/31/introducing-container-views-in-swiftui), by [@mecid](https://twitter.com/mecid)
+
+* [Introduction to natural language processing in Swift](https://rickwierenga.com/blog/apple/NaturalLanguage.html), by [@rickwierenga](https://twitter.com/rickwierenga)
+
+* [Catch SwiftUI model updates from bad threads before they crash your app](https://www.appsdissected.com/swiftui-updates-main-thread-debug-crash/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415), by [@AppsDissected](https://www.twitter.com/AppsDissected)
+
+* [iOS App Development Tips : How to integrate “Sign In with Apple Button” in your Apps?]( https://www.coruscatesolution.com/custom-ios-app-development-sign-in-with-apple-button)
+
+* [SwiftUI Generic Image Loading](https://osinski.dev/posts/swiftui-image-loading/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B415), by osinski
+
 **Tools/Controls**
 
 * [iOS Automated Testing with Fastlane 🚀](https://coletiv.com/blog/ios-automated-testing-fastlane/), by [@coletivstudio](https://twitter.com/coletivstudio)
