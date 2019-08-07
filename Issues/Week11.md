@@ -2,6 +2,10 @@
 
 * [What’s New in Swift 5.1?](https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1), by [@KaramazovShogun](https://twitter.com/KaramazovShogun)
 
+* [ViewModifiers in SwiftUI](https://mecid.github.io/2019/08/07/viewmodifiers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+
+* [SwiftUI, Combine, and Beyond](https://basememara.com/swiftui-combine-and-beyond/), by [@BasemEmara](https://twitter.com/basememara)
+
 **Tools/Controls**
 
 * [CombineCocoa - Combine publisher bridges for Cocoa Controls (UIControl) in UIKit](https://github.com/freak4pc/CombineCocoa), by [@‪freak4pc‬](https://twitter.com/freak4pc)
