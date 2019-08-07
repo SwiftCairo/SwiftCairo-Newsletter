@@ -6,6 +6,8 @@
 
 * [CombineCocoa - Combine publisher bridges for Cocoa Controls (UIControl) in UIKit](https://github.com/freak4pc/CombineCocoa), by [@‪freak4pc‬](https://twitter.com/freak4pc)
 
+* [SDWebImageSwiftUI](https://github.com/dreampiggy/SDWebImageSwiftUI), by dreampiggy
+
 **Business/Career**
 
 * 
