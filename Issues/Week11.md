@@ -8,6 +8,8 @@
 
 * [SDWebImageSwiftUI](https://github.com/dreampiggy/SDWebImageSwiftUI), by dreampiggy
 
+* [IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout), by [@k_katsumi](https://twitter.com/k_katsumi)
+
 **Business/Career**
 
 * 
