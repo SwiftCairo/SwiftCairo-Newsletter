@@ -6,9 +6,7 @@
 
 * [SwiftUI, Combine, and Beyond](https://basememara.com/swiftui-combine-and-beyond/), by [@BasemEmara](https://twitter.com/basememara)
 
-* [Kubernetes Tutorial for Swift on the Server](https://www.raywenderlich.com/4304682-kubernetes-tutorial-for-swift-on-the-server?utm_campaign=rw-weekly-issue-229&utm_medium=email&utm_source=rw-weekly), by [@dokun24](https://twitter.com/dokun24)
-
-* [Local API Call Tutorial with WireMock and UI Tests in Xcode](https://www.raywenderlich.com/3462646-local-api-call-tutorial-with-wiremock-and-ui-tests-in-xcode?utm_campaign=rw-weekly-issue-229&utm_medium=email&utm_source=rw-weekly), by [@ski081](https://twitter.com/ski081)
+* [Local API Call Tutorial with WireMock and UI Tests in Xcode](https://www.raywenderlich.com/3462646-local-api-call-tutorial-with-wiremock-and-ui-tests-in-xcode?utm_campaign=rw-weekly-issue-229), by [@ski081](https://twitter.com/ski081)
 
 * [Key-value observing without NSObject and dynamic modifier in Swift](https://augmentedcode.io/2019/08/05/key-value-observing-without-nsobject-and-dynamic-in-swift/), by [@toomasvahter](https://twitter.com/toomasvahter)
 
