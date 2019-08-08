@@ -6,6 +6,8 @@
 
 * [SwiftUI, Combine, and Beyond](https://basememara.com/swiftui-combine-and-beyond/), by [@BasemEmara](https://twitter.com/basememara)
 
+* [Kubernetes Tutorial for Swift on the Server](https://www.raywenderlich.com/4304682-kubernetes-tutorial-for-swift-on-the-server?utm_campaign=rw-weekly-issue-229&utm_medium=email&utm_source=rw-weekly), by [@dokun24](https://twitter.com/dokun24)
+
 **Tools/Controls**
 
 * [CombineCocoa - Combine publisher bridges for Cocoa Controls (UIControl) in UIKit](https://github.com/freak4pc/CombineCocoa), by [@‪freak4pc‬](https://twitter.com/freak4pc)
