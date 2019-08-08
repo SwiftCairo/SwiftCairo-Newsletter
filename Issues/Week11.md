@@ -10,6 +10,14 @@
 
 * [Local API Call Tutorial with WireMock and UI Tests in Xcode](https://www.raywenderlich.com/3462646-local-api-call-tutorial-with-wiremock-and-ui-tests-in-xcode?utm_campaign=rw-weekly-issue-229&utm_medium=email&utm_source=rw-weekly), by [@ski081](https://twitter.com/ski081)
 
+* [Key-value observing without NSObject and dynamic modifier in Swift](https://augmentedcode.io/2019/08/05/key-value-observing-without-nsobject-and-dynamic-in-swift/), by [@toomasvahter](https://twitter.com/toomasvahter)
+
+* [Property Wrappers](https://dmtopolog.com/property-wrappers/), by [@dmtopolog](https://twitter.com/dmtopolog)
+
+* [Combine Latest Collection](https://danieltull.co.uk/blog/2019/08/04/combine-latest-collection/), by [@danielctull](https://twitter.com/danielctull)
+
+* [Combine vs. RxSwift: Should you switch to Combine?](https://quickbirdstudios.com/blog/combine-vs-rxswift/), by [@kofse](https://twitter.com/kofse)
+
 **Tools/Controls**
 
 * [CombineCocoa - Combine publisher bridges for Cocoa Controls (UIControl) in UIKit](https://github.com/freak4pc/CombineCocoa), by [@‪freak4pc‬](https://twitter.com/freak4pc)
