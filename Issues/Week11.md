@@ -18,7 +18,7 @@
 
 **Tools/Controls**
 
-* [SwiftPM Library, a place to find packages for Swift.](https://swiftpm.co)
+* [SwiftPM Library, a place to find packages for Swift.](https://swiftpm.co), by [@daveverwer](https://twitter.com/daveverwer)
 
 * [CombineCocoa - Combine publisher bridges for Cocoa Controls (UIControl) in UIKit](https://github.com/freak4pc/CombineCocoa), by [@‪freak4pc‬](https://twitter.com/freak4pc)
 
