@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* [FlexibleHeader](https://github.com/k-lpmg/FlexibleHeader) - A container view that responds to scrolling of UIScrollView, by [@kanglpmg](https://twitter.com/kanglpmg)
+* [FlexibleHeader - A container view that responds to scrolling of UIScrollView](https://github.com/k-lpmg/FlexibleHeader), by [@kanglpmg](https://twitter.com/kanglpmg)
 
 **Business/Career**
 
