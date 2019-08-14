@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [It’s not always about making things easier: When to make your sign up flow harder](https://medium.com/behavioral-economics-1/its-not-always-about-making-things-easier-when-to-make-your-sign-up-flow-harder-d7beced800ca), by [@IrrationalLabs](https://twitter.com/IrrationalLabs)
 
 **Videos**
 
