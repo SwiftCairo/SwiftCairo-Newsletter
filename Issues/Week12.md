@@ -11,6 +11,8 @@
 
 * [Combine101 - A gentle but thorough introduction to Combine.](https://github.com/learncombine/Combine101)
 
+* [CombineDataSources - Table and collection view data sources for Combine](https://github.com/combineopensource/CombineDataSources), by [@icanzilb](https://twitter.com/icanzilb)
+
 **Business/Career**
 
 * [Selling a watchOS-only App Before watchOS 6 Hits](https://cutecoder.org/business/watch-in-app-purchase/) - by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
