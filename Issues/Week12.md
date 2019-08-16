@@ -5,6 +5,8 @@
 
 * [Error handling in Combine explained with code examples](https://www.avanderlee.com/swift/combine-error-handling), by [@twannl](https://twitter.com/twannl)
 
+* [Building BarChart with Shape API in SwiftUI](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui), by [@mecid](https://twitter.com/mecid)
+
 **Tools/Controls**
 
 * [FlexibleHeader - A container view that responds to scrolling of UIScrollView](https://github.com/k-lpmg/FlexibleHeader), by [@kanglpmg](https://twitter.com/kanglpmg)
