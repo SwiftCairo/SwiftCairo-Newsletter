@@ -13,6 +13,8 @@
 
 * [MakeML’s Automated Video Annotation Tool for Object Detection on iOS](https://heartbeat.fritz.ai/makemls-automated-video-annotation-tool-for-object-detection-on-ios-889ef7bb5253), by [@lekorotkov](https://twitter.com/lekorotkov)
 
+* [5 steps to make your iOS app more secure](https://dev.to/netguru/5-steps-to-make-your-ios-app-more-secure-5a8d), by sochalewski
+
 **Tools/Controls**
 
 * [FlexibleHeader - A container view that responds to scrolling of UIScrollView](https://github.com/k-lpmg/FlexibleHeader), by [@kanglpmg](https://twitter.com/kanglpmg)
