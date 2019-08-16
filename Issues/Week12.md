@@ -9,6 +9,8 @@
 
 * [Secrets of the MediaPlayer framework for iOS](https://www.vaporforums.io/viewThread/55), by Stephen Bodnar
 
+* [How To Make Netflix Video Player in Swift](https://www.zerotoappstore.com/how-to-make-netflix-video-player.html)
+
 **Tools/Controls**
 
 * [FlexibleHeader - A container view that responds to scrolling of UIScrollView](https://github.com/k-lpmg/FlexibleHeader), by [@kanglpmg](https://twitter.com/kanglpmg)
