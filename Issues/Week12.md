@@ -11,6 +11,8 @@
 
 * [How To Make Netflix Video Player in Swift](https://www.zerotoappstore.com/how-to-make-netflix-video-player.html)
 
+* [MakeML’s Automated Video Annotation Tool for Object Detection on iOS](https://heartbeat.fritz.ai/makemls-automated-video-annotation-tool-for-object-detection-on-ios-889ef7bb5253), by [@lekorotkov](https://twitter.com/lekorotkov)
+
 **Tools/Controls**
 
 * [FlexibleHeader - A container view that responds to scrolling of UIScrollView](https://github.com/k-lpmg/FlexibleHeader), by [@kanglpmg](https://twitter.com/kanglpmg)
