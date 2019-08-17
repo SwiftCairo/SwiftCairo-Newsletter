@@ -3,6 +3,8 @@
 
 * [Writing an Elegant and Extensible Network Stack in Swift](https://medium.com/@peterlivesey/writing-an-elegant-and-extensible-network-stack-in-swift-e2f5d9ab3ea9), by  [@plivesey453](https://twitter.com/plivesey453)
 
+* [Adding Advanced Features to your Network Stack in Swift](https://medium.com/device-blogs/adding-advanced-features-to-your-network-stack-in-swift-941ecfff8dc3), by [@plivesey453](https://twitter.com/plivesey453)
+
 * [Error handling in Combine explained with code examples](https://www.avanderlee.com/swift/combine-error-handling), by [@twannl](https://twitter.com/twannl)
 
 * [Building BarChart with Shape API in SwiftUI](https://mecid.github.io/2019/08/14/building-barchart-with-shape-api-in-swiftui), by [@mecid](https://twitter.com/mecid)
