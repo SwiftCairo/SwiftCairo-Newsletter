@@ -35,6 +35,10 @@
 
 * [It’s not always about making things easier: When to make your sign up flow harder](https://medium.com/behavioral-economics-1/its-not-always-about-making-things-easier-when-to-make-your-sign-up-flow-harder-d7beced800ca), by [@IrrationalLabs](https://twitter.com/IrrationalLabs)
 
+* [Why We Hate Not Finishing What We Start](https://uxplanet.org/zeigarnik-effect-and-its-role-in-user-experience-632a3a5b17f5), by [@101babich](https://twitter.com/101babich)
+
+* [Innovation > Replication](https://uxplanet.org/innovation-replication-2d99b9713a95), by [@lathamhenry](https://twitter.com/lathamhenry)
+
 **Videos**
 
 *
