@@ -29,6 +29,8 @@
 
 * [Selling a watchOS-only App Before watchOS 6 Hits](https://cutecoder.org/business/watch-in-app-purchase/) - by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
+* [How to build social connection in a remote team](https://m.signalvnoise.com/how-to-build-social-connection-in-a-remote-team/), by [@clairejlew](https://twitter.com/clairejlew)
+
 **UI/UX**
 
 * [It’s not always about making things easier: When to make your sign up flow harder](https://medium.com/behavioral-economics-1/its-not-always-about-making-things-easier-when-to-make-your-sign-up-flow-harder-d7beced800ca), by [@IrrationalLabs](https://twitter.com/IrrationalLabs)
