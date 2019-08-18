@@ -41,7 +41,7 @@
 
 **Videos**
 
-*
+* [This week video from WWDC](https://developer.apple.com/videos/play/wwdc2018/223/)
 
 **Credits**
 
