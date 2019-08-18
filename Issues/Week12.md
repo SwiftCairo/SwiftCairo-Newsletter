@@ -45,4 +45,4 @@
 
 **Credits**
 
-* [Mo Elnaggar](https://github.com/MoElnaggar14), [Attia Mo]([moelnaggar14](https://twitter.com/attiamothedev))
+* [Mo Elnaggar](https://github.com/MoElnaggar14), [Attia Mo](https://twitter.com/attiamothedev)
