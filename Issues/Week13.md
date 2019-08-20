@@ -12,7 +12,7 @@
 
 **Business/Career**
 
-* 
+* [How to avoid common mistakes for your first iOS talk.](https://benoitpasquier.com/how-to-avoid-mistakes-first-ios-talk/), by [@Benoit Pasquier](https://benoitpasquier.com)
 
 **UI/UX**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* 
+* [Ahmed Ramzy](https://medium.com/@ramzy.2871)
