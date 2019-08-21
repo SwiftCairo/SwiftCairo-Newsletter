@@ -3,6 +3,8 @@
 
 * [Customizing Codable types in Swift](https://www.swiftbysundell.com/posts/customizing-codable-types-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
+* [Xcode Instruments usage to improve app performance](https://www.avanderlee.com/debugging/xcode-instruments-time-profiler), by [@twannl](https://twitter.com/twannl)
+
 **Tools/Controls**
 
 * [ChartView - displaying charts effortlessly.](https://github.com/AppPear/ChartView) , by AppPear
