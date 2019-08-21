@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* * [10-minute tips to make your iOS app more interactive](https://infinum.co/the-capsized-eight/10-minute-tips-to-make-your-iOS-app-more-interactive), by Goran Brlas
+* [10-minute tips to make your iOS app more interactive](https://infinum.co/the-capsized-eight/10-minute-tips-to-make-your-iOS-app-more-interactive), by Goran Brlas
 
 **Videos**
 
