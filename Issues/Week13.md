@@ -5,6 +5,15 @@
 
 * [Xcode Instruments usage to improve app performance](https://www.avanderlee.com/debugging/xcode-instruments-time-profiler), by [@twannl](https://twitter.com/twannl)
 
+* [The power of Environment in SwiftUI](https://mecid.github.io/2019/08/21/the-power-of-environment-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+
+* [Implementing the Data Access Object (DAO) Pattern on an iOS App](https://cutecoder.org/programming/future-proof-data-persistence/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
+
+* [Modular Architecture in Swift](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99), by [@bataleandro](https://twitter.com/bataleandro)
+
+* [Understanding Reference and Value type](https://fluffy.es/reference-vs-value-type/), by [@soulchildpls](https://twitter.com/soulchildpls)
+
+
 **Tools/Controls**
 
 * [ChartView - displaying charts effortlessly.](https://github.com/AppPear/ChartView) , by AppPear
@@ -12,6 +21,10 @@
 * [Swift µframework for fetching images 🍊](https://github.com/RuiAAPeres/Tangerine), by [@peres](https://twitter.com/peres)
 
 * [HackMan - a simple tool for generating boilerplate code directly via the command line](https://github.com/Cosmo/HackMan), by [@maccosmo](https://twitter.com/maccosmo)
+
+* [ZippyJSON - A much faster version of JSONDecoder](https://github.com/michaeleisel/ZippyJSON), by [@michaeleisel](https://twitter.com/michaeleisel)
+
+* [AutomationTools - iOS UI testing framework and guidelines](https://github.com/justeat/AutomationTools), by [@justeat_tech](https://twitter.com/justeat_tech)
 
 **Business/Career**
 
@@ -26,6 +39,8 @@
 **Videos**
 
 * [Kristina Fox - Internationalizing your App from UIKonf](https://www.youtube.com/watch?v=fF131-_8QjM)
+
+* [Swift TO videos](https://vimeo.com/showcase/swiftto-conf-2019), by [@SwiftConfTO](https://twitter.com/SwiftConfTO)
 
 **Jobs**
 
