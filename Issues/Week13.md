@@ -28,6 +28,8 @@
 
 * [AutomationTools - iOS UI testing framework and guidelines](https://github.com/justeat/AutomationTools), by [@justeat_tech](https://twitter.com/justeat_tech)
 
+* [How to port your iPad app to Mac using Catalyst](https://appspector.com/blog/how-to-convert-you), by [@appspector](https://twitter.com/appspector)
+
 **Business/Career**
 
 * [How to avoid common mistakes for your first iOS talk.](https://benoitpasquier.com/how-to-avoid-mistakes-first-ios-talk), by Benoit Pasquier
