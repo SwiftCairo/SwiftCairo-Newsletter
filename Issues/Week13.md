@@ -9,6 +9,8 @@
 
 * [Implementing the Data Access Object (DAO) Pattern on an iOS App](https://cutecoder.org/programming/future-proof-data-persistence/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
+* [Swift Operation and OperationQueue](https://maysamsh.me/2019/08/18/swift-operation-and-operationqueue), by maysamsh
+
 * [Modular Architecture in Swift](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99), by [@bataleandro](https://twitter.com/bataleandro)
 
 * [Understanding Reference and Value type](https://fluffy.es/reference-vs-value-type/), by [@soulchildpls](https://twitter.com/soulchildpls)
