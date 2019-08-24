@@ -25,7 +25,7 @@
 
 **Videos**
 
-* [Kristina Fox - Internationalizing your App from UIKonf] (https://www.youtube.com/watch?v=fF131-_8QjM)
+* [Kristina Fox - Internationalizing your App from UIKonf](https://www.youtube.com/watch?v=fF131-_8QjM)
 
 **Jobs**
 
