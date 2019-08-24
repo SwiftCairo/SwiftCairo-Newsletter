@@ -15,6 +15,7 @@
 
 * [Understanding Reference and Value type](https://fluffy.es/reference-vs-value-type/), by [@soulchildpls](https://twitter.com/soulchildpls)
 
+* [How to port your iPad app to Mac using Catalyst](https://appspector.com/blog/how-to-convert-you), by [@appspector](https://twitter.com/appspector)
 
 **Tools/Controls**
 
@@ -27,8 +28,6 @@
 * [ZippyJSON - A much faster version of JSONDecoder](https://github.com/michaeleisel/ZippyJSON), by [@michaeleisel](https://twitter.com/michaeleisel)
 
 * [AutomationTools - iOS UI testing framework and guidelines](https://github.com/justeat/AutomationTools), by [@justeat_tech](https://twitter.com/justeat_tech)
-
-* [How to port your iPad app to Mac using Catalyst](https://appspector.com/blog/how-to-convert-you), by [@appspector](https://twitter.com/appspector)
 
 **Business/Career**
 
