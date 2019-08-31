@@ -34,6 +34,8 @@
 
 * [Why Everyone Loves Remote Work](https://usefyi.com/remote-work-report/), by [@usefyi](https://twitter.com/usefyi)
 
+* [Looking Elsewhere](https://blog.curtisherbert.com/slopes-diaries-32-looking-elsewhere), by [@parrots](https://twitter.com/parrots)
+
 **UI/UX**
 
 * [7 UX Design Principles to live by](https://lollypop.design/blog/2019/august/7-ux-design-principles/), by [@lollypop_studio](https://twitter.com/lollypop_studio)
