@@ -24,7 +24,7 @@
 
 * [Caching in Swift](https://www.swiftbysundell.com/posts/caching-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
-[How I Created Apple’s Shortcuts Icon System](https://medium.com/flawless-app-stories/apples-shortcuts-826eabd44886), by [@hassanedesouky](https://twitter.com/hassanedesouky)
+* [How I Created Apple’s Shortcuts Icon System](https://medium.com/flawless-app-stories/apples-shortcuts-826eabd44886), by [@hassanedesouky](https://twitter.com/hassanedesouky)
 
 **Tools/Controls**
 
@@ -44,8 +44,8 @@
 
 **Videos**
 
-* 
+* [Get Your UI Ready for iOS 13](https://developer.apple.com/videos/play/wwdc2019/224), from WWDC or read Attia's breif from [Here](https://www.facebook.com/100000683002744/posts/2737591882940218?sfns=xmo)
 
 **Credits**
 
-* [moelnaggar14](https://github.com/MoElnaggar14)
+* [moelnaggar14](https://github.com/MoElnaggar14), [Attia Mo](https://attiamo.me)
