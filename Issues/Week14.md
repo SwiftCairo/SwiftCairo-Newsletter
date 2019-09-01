@@ -26,6 +26,12 @@
 
 * [How I Created Apple’s Shortcuts Icon System](https://medium.com/flawless-app-stories/apples-shortcuts-826eabd44886), by [@hassanedesouky](https://twitter.com/hassanedesouky)
 
+**Jobs** 
+
+* [iOS Software Engineer (m/f/d) Gastrofix GmbH ](https://gastrofix.recruitee.com/o/berlin-ios-software-engineer-mfd/c/new?source=stackoverflow)
+
+* [iOS Developer Virtual Affairs | Amsterdam, Netherlands ](https://jobs.weareyou.com/ams-ios-developer/en/apply)
+
 **Tools/Controls**
 
 * [Shuffle - A multi-directional card swiping library inspired by Tinder](https://github.com/mac-gallagher/Shuffle), by  Mac Gallagher
