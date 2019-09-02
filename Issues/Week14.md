@@ -28,9 +28,9 @@
 
 **Jobs** 
 
-* [iOS Software Engineer (m/f/d) Gastrofix GmbH ](https://gastrofix.recruitee.com/o/berlin-ios-software-engineer-mfd/c/new?source=stackoverflow)
+* [iOS Software Engineer (m/f/d) Gastrofix GmbH](https://gastrofix.recruitee.com/o/berlin-ios-software-engineer-mfd/c/new?source=stackoverflow)
 
-* [iOS Developer Virtual Affairs | Amsterdam, Netherlands ](https://jobs.weareyou.com/ams-ios-developer/en/apply)
+* [iOS Developer Virtual Affairs | Amsterdam, Netherlands](https://jobs.weareyou.com/ams-ios-developer/en/apply)
 
 **Tools/Controls**
 
@@ -44,7 +44,7 @@
 
 **UI/UX**
 
-* [7 UX Design Principles to live by](https://lollypop.design/blog/2019/august/7-ux-design-principles/), by [@lollypop_studio](https://twitter.com/lollypop_studio)
+* [7 UX Design Principles to live](https://lollypop.design/blog/2019/august/7-ux-design-principles/), by [@lollypop_studio](https://twitter.com/lollypop_studio)
 
 * [What not to do while making an interactive prototype?](https://uxplanet.org/what-not-to-do-while-making-an-interactive-prototype-9aabb95fc1d8), by Manpriya Guliani
 
