@@ -7,26 +7,14 @@
 
 * [Computing dates in Swift](https://www.swiftbysundell.com/articles/computing-dates-in-swift/), by [johnsundell](https://twitter.com/johnsundell)
 
-**Jobs** 
-
-* 
-
 **Tools/Controls**
 
 * [TopDrawer](https://github.com/JUSTINMKAUFMAN/TopDrawer?source=post_page-----ca474e540582----------------------), by Justin Kaufman
-
-**Business/Career**
-
-* 
 
 **UI/UX**
 
 * [20 Hot UI Design Trends for Websites and Apps in 2019](https://tubikstudio.com/hot-ui-design-trends/), by [Tubik Studio](https://tubikstudio.com)
 * [UI Design Tips: How to Choose Colors for Interface](https://design4users.com/ui-design-tips-how-to-choose-colors-for-interface/), by [Tubik Studio](https://tubikstudio.com)
-
-**Videos**
-
-* 
 
 **Credits**
 
