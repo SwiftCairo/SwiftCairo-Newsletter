@@ -2,9 +2,11 @@
 
 **Articles**
 
+* [My App Crashed, Now What?](https://www.raywenderlich.com/6334294-my-app-crashed-now-what), by [@Waheiba](https://twitter.com/Waheiba)
+
 * [SQLite With Swift Tutorial: Getting Started](https://www.raywenderlich.com/6620276-sqlite-with-swift-tutorial-getting-started), by [@adam9rush](https://twitter.com/adam9rush)
 
-* Sign in with apple Part: [One](https://sarunw.com/posts/sign-in-with-apple-1), [Two](https://sarunw.com/posts/sign-in-with-apple-2), [Three](https://sarunw.com/posts/sign-in-with-apple-3), by [@Sarun W.](https://twitter.com/sarunw)
+* [Sign in with apple Part: One](https://sarunw.com/posts/sign-in-with-apple-1), [Two](https://sarunw.com/posts/sign-in-with-apple-2), [Three](https://sarunw.com/posts/sign-in-with-apple-3), by [@Sarun W.](https://twitter.com/sarunw)
 
 * [The best architecture for the iOS app, does it even exist?](https://medium.com/flawless-app-stories/the-best-architecture-for-ios-app-does-it-even-exist-3af357ac62e7), by Oleksandr Stepanov
 
