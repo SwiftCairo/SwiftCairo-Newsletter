@@ -2,17 +2,18 @@
 
 **Articles**
 
-* [Sign in with apple Part: One](https://sarunw.com/posts/sign-in-with-apple-1/),by [Sarun W.](https://twitter.com/sarunw)
-
-* [Sign in with apple Part: Two](https://sarunw.com/posts/sign-in-with-apple-2/),by [Sarun W.](https://twitter.com/sarunw)
-
-* [Sign in with apple Part: Three](https://sarunw.com/posts/sign-in-with-apple-3/),by [Sarun W.](https://twitter.com/sarunw)
-
+* Sign in with apple Part: [One](https://sarunw.com/posts/sign-in-with-apple-1), [Two](https://sarunw.com/posts/sign-in-with-apple-2), [Three](https://sarunw.com/posts/sign-in-with-apple-3), by [Sarun W.](https://twitter.com/sarunw)
 
 
 **Tools/Controls**
 
 * [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
+
+* [Spek](https://github.com/onmyway133/Spek), by [@onmyway133](https://twitter.com/onmyway133)
+
+* [Swift Embedded](https://github.com/swift-embedded/swift-embedded), by [Alan Dragomirecký](https://github.com/dragomirecky)
+
+* [swift-mod](https://github.com/ra1028/swift-mod), by [@ra1028fe5](https://twitter.com/ra1028fe5)
 
 
 **UI/UX**
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [iRamzy](http://github.com/iramzy)
+*  [moelnaggar14](http://github.com/MoElnaggar14), [iRamzy](http://github.com/iramzy)
