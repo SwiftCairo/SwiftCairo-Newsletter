@@ -4,6 +4,13 @@
 
 * Sign in with apple Part: [One](https://sarunw.com/posts/sign-in-with-apple-1), [Two](https://sarunw.com/posts/sign-in-with-apple-2), [Three](https://sarunw.com/posts/sign-in-with-apple-3), by [Sarun W.](https://twitter.com/sarunw)
 
+* [The best architecture for the iOS app, does it even exist?](https://medium.com/flawless-app-stories/the-best-architecture-for-ios-app-does-it-even-exist-3af357ac62e7), by Oleksandr Stepanov
+
+* [Functions in Swift: Pure, Higher-Order and First-Class Functions, Currying and Partial Application](https://www.vadimbulavin.com/pure-functions-higher-order-functions-and-first-class-functions-in-swift/), by [@V8tr](https://twitter.com/V8tr)
+
+* [Print unescaped string output in Swift](https://sarunw.com/tips/print-unescaped-string/), by [@sarunw](https://twitter.com/sarunw)
+
+* [Move view when keyboard is shown (guide)](https://fluffy.es/move-view-when-keyboard-is-shown/), by [@soulchildpls](http://twitter.com/soulchildpls)
 
 **Tools/Controls**
 
