@@ -27,17 +27,11 @@
 * [swift-mod](https://github.com/ra1028/swift-mod), by [@ra1028fe5](https://twitter.com/ra1028fe5)
 
 
-**UI/UX**
-
-
-
 **Business/Career**
 
 * [How To Provide Free Trials in the App Store](https://cutecoder.org/business/free-trial-app-store/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo/)
 
 * [What I've learned after sending 147 proposals to 36 conferences in a year](https://drobinin.com/posts/what-ive-learned-after-sending-147-proposals-to-36-conferences-in-a-year/), by [@valzevul](https://twitter.com/valzevul)
-
-**Videos**
 
 
 **Credits**
