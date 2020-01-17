@@ -18,7 +18,7 @@
 
 **Tools/Controls**
 
-* [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
+* [FloatingButton - Easily customizable floating button menu created with SwiftUI](https://github.com/exyte/FloatingButton), by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 * [Spek](https://github.com/onmyway133/Spek), by [@onmyway133](https://twitter.com/onmyway133)
 
