@@ -1,4 +1,5 @@
 
+Happy Friday!, we're back with weekly overview of the most popular iOS news, articles and libraries, This week we got Xcode 11.3.1, Apple announced that starting April 2020 apps submitted to the store will need to [use a stryboard for the app's launch screen](https://developer.apple.com/news/?id=01132020b)
 
 **Articles**
 
