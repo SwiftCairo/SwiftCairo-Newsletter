@@ -33,6 +33,9 @@
 
 * [What I've learned after sending 147 proposals to 36 conferences in a year](https://drobinin.com/posts/what-ive-learned-after-sending-147-proposals-to-36-conferences-in-a-year/), by [@valzevul](https://twitter.com/valzevul)
 
+**Videos**
+
+* [Swift Heroes 2019](https://www.youtube.com/playlist?list=PLfCiO1zYKkAT4Jit4v0cT1OYw57_c5qeq), by [@swiftheroes_it](https://twitter.com/swiftheroes_it)
 
 **Credits**
 
