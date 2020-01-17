@@ -40,4 +40,4 @@ Happy Friday!, we're back with weekly overview of the most popular iOS news, art
 
 **Credits**
 
-*  [moelnaggar14](http://github.com/MoElnaggar14), [iRamzy](http://github.com/iramzy)
+*  [moelnaggar14](https://github.com/MoElnaggar14), [iRamzy](https://github.com/iramzy)
