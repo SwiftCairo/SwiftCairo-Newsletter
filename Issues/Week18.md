@@ -17,8 +17,7 @@
 
 **Business/Career**
 
-*
-*
+* [The Effect of Improving App Ratings. What happened next?](https://heyimakeapps.com/blog/the-effect-of-improving-app-ratings-what-happened-next), by [@michael_tigas](http://twitter.com/michael_tigas)
 
 **Credits**
 
