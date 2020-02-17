@@ -14,10 +14,13 @@
 
 * [ControlRoom - A macOS app to control the Xcode Simulator.](https://github.com/twostraws/ControlRoom), by [@twostraws](https://twitter.com/twostraws)
 
+* [Sitrep](https://github.com/twostraws/Sitrep) - A source code analyzer for Swift projects, by [@twostraws](https://twitter.com/twostraws)
 
 **Business/Career**
 
 * [The Effect of Improving App Ratings. What happened next?](https://heyimakeapps.com/blog/the-effect-of-improving-app-ratings-what-happened-next), by [@michael_tigas](http://twitter.com/michael_tigas)
+
+* [How To Pass App Store Review: Guideline 4.2 Design – Minimum functionality](https://cutecoder.org/business/pass-app-store-review-design-minimum-functionality/) by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
 **Credits**
 
