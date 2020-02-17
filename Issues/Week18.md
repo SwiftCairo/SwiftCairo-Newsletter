@@ -1,9 +1,9 @@
 
 **Articles**
 
-*
-*
+* [Library Evolution in Swift](https://swift.org/blog/library-evolution/), by [@slava_pestov](https://twitter.com/slava_pestov/)
 
+* [SwiftPlaygroundsCLI](https://github.com/SvenTiigi/SwiftPlaygroundsCLI) - Easily generate Swift Playgrounds from your command line for the new Playgrounds App on macOS, by [@SvenTiigi](https://twitter.com/SvenTiigi)
 
 
 **Tools/Controls**
@@ -15,9 +15,6 @@
 * [ControlRoom - A macOS app to control the Xcode Simulator.](https://github.com/twostraws/ControlRoom), by [@twostraws](https://twitter.com/twostraws)
 
 
-
-
-
 **Business/Career**
 
 *
@@ -25,4 +22,4 @@
 
 **Credits**
 
-* [iRamzy](https://github.com/iramzy)
+* [MoElnaggar14](https://github.com/MoElnaggar14), [iRamzy](https://github.com/iramzy)
