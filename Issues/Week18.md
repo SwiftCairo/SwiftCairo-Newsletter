@@ -22,6 +22,12 @@
 
 * [How To Pass App Store Review: Guideline 4.2 Design – Minimum functionality](https://cutecoder.org/business/pass-app-store-review-design-minimum-functionality/) by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
+**Videos**
+
+* [dotSwift 2020](https://www.dotconferences.com/conference/dotswift-2020), by [@dotSwift](https://twitter.com/dotSwift)
+
+* [BA: Swiftable 2019](https://www.youtube.com/playlist?list=PLleLsCcywRxKT3VgBPtzxtRjq-NXK0FZw), by [@baswiftable](twitter.com/baswiftable)
+
 **Credits**
 
 * [MoElnaggar14](https://github.com/MoElnaggar14), [iRamzy](https://github.com/iramzy)
